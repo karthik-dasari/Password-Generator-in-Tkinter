@@ -15,7 +15,3 @@ Install python latest version from https://www.python.org/downloads/
 #### Install Tkinter
 
 pip install tkinter
-
-#### To start the calculator
-
-Run using any IDE.
